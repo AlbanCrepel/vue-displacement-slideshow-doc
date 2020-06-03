@@ -1,3 +1,3 @@
-# vue-displacement-slideshow
+# Guide
 
-
+## Getting Started
