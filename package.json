@@ -1,0 +1,22 @@
+{
+  "name": "vue-displacement-slideshow-doc",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "npx vitepress",
+    "build": "npx vitepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbanCrepel/vue-displacement-slideshow-doc.git"
+  },
+  "author": "AlbanCrepel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbanCrepel/vue-displacement-slideshow-doc/issues"
+  },
+  "homepage": "https://github.com/AlbanCrepel/vue-displacement-slideshow-doc#readme",
+  "devDependencies": {
+    "vitepress": "^0.3.0"
+  }
+}
