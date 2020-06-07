@@ -130,3 +130,14 @@ Just wrap the component between a ``no-ssr`` tag like so :
     <vue-displacement-slideshow />
 </no-ssr>
 ```
+
+## Behavior
+
+The first image of the array is displayed at first.
+When we call the `next` method while currently showing the last image, it will go to the first image.
+When we call the `previous` method while currently showing the first image, it will go to the last image.
+
+The images are displayed as we would use `background-size:cover` in CSS.
+
+If you set the prop `startAsTransparent` to `true`, then it **adds a texture to your `images` array**. If you want to 
+remove it after, you can just call the `removeImage` method with `0` as the index parameter value.
