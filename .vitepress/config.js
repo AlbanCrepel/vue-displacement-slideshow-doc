@@ -5,6 +5,7 @@ module.exports = {
         nav: [
           { text: 'Guide', link: '/' },
           { text: 'API', link: '/api' },
-        ]
+        ],
+        sidebar: 'auto',
     }
   }
