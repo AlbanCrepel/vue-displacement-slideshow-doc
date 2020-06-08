@@ -65,11 +65,11 @@ Vue.component('vue-displacement-slideshow', VueDisplacementSlideshow);
 
 To use the component two props are required, `images` and `displacement`.
 
-* **image** : An array containing the paths of the images you wan to use
+* **images** : An array containing the paths of the images you wan to use
 * **displacement** : The path of the displacement image
 
 ::: tip
-You can also the [API reference](./api) to see all props and method.
+You can also the [API reference](./api) to see all props and methods.
 :::
 
 ### Example
