@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/AlbanCrepel/vue-displacement-slideshow-doc#readme",
   "devDependencies": {
-    "vitepress": "^0.3.1"
+    "vitepress": "^1.0.0-alpha.34"
   }
 }
